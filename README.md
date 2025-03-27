@@ -1,9 +1,5 @@
-# BioSize
+# CellSize
 A Python Script to read, filter, label, and measure bacterial cells utilizing microscopy images from a phase contrast microscope
-
-## CITATION 
-**If you use BioSize, please cite the following paper:**
-
 
 
 ## LOCAL INSTALLATION
