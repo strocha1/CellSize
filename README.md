@@ -6,7 +6,7 @@ A Python Script to read, filter, label, and measure bacterial cells utilizing mi
 ### System requirements
 The code has been written in Jupyter Notebook on a Windows system. Please open an issue if you have problems with installation. 
 ### Dependencies
-HOMDscrape relies on the following packages (which can be installed using pip if needed):
+CellSize relies on the following packages (which can be installed using pip if needed):
 - [numpy](https://numpy.org/)
 - [pandas](https://pandas.pydata.org/)
 - [matplotlib](https://matplotlib.org/)
